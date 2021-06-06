@@ -135,7 +135,7 @@ body, html{
 .h-light-title{
     text-transform: uppercase;
     font-family: 'Geomanist-Light';
-    color:#004945;
+    color:#383838;
     font-size:2rem;
 }
 .h-bold-title{
@@ -160,5 +160,5 @@ body, html{
 .f-group a{
     font-weight: 800;
     text-decoration: none;
-    color:#111;
+    color:#383838;
 }
