@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-BoldItalic.eot');
+    src: url('Geomanist-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-BoldItalic.woff2') format('woff2'),
+        url('Geomanist-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-Book.eot');
+    src: url('Geomanist-Book.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-Book.woff2') format('woff2'),
+        url('Geomanist-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-Black.eot');
+    src: url('Geomanist-Black.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-Black.woff2') format('woff2'),
+        url('Geomanist-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-ExtraLight.eot');
+    src: url('Geomanist-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-ExtraLight.woff2') format('woff2'),
+        url('Geomanist-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-Light.eot');
+    src: url('Geomanist-Light.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-Light.woff2') format('woff2'),
+        url('Geomanist-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-Bold.eot');
+    src: url('Geomanist-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-Bold.woff2') format('woff2'),
+        url('Geomanist-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-ExtraLightItalic.eot');
+    src: url('Geomanist-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-ExtraLightItalic.woff2') format('woff2'),
+        url('Geomanist-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-BookItalic.eot');
+    src: url('Geomanist-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-BookItalic.woff2') format('woff2'),
+        url('Geomanist-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-LightItalic.eot');
+    src: url('Geomanist-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-LightItalic.woff2') format('woff2'),
+        url('Geomanist-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-Medium.eot');
+    src: url('Geomanist-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-Medium.woff2') format('woff2'),
+        url('Geomanist-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-MediumItalic.eot');
+    src: url('Geomanist-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-MediumItalic.woff2') format('woff2'),
+        url('Geomanist-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('Geomanist-UltraItalic.eot');
+    src: url('Geomanist-UltraItalic.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-UltraItalic.woff2') format('woff2'),
+        url('Geomanist-UltraItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
