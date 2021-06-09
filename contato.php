@@ -16,12 +16,12 @@
             <div class="logo inline"><a href=""><img src="img/logo.png" alt="Logo Moura & Freitas Advogados"></a></div>
             <div class="menu inline">
                 <ul class="menu-list inline">
-                    <li class="menu-item"><a href="index.php" class="menu-active">Home</a></li>
+                    <li class="menu-item"><a href="index.php">Home</a></li>
                     <li class="menu-item"><a href="legado.php">Legado</a></li>
                     <li class="menu-item"><a href="advogados.php">Advogados</a></li>
                     <li class="menu-item"><a href="atuacao.php">Atuação</a></li>
                     <li class="menu-item"><a href="editorial.php">Editorial</a></li>
-                    <li class="menu-item"><a href="contato.php">Contato</a></li>
+                    <li class="menu-item"><a href="contato.php" class="menu-active">Contato</a></li>
                 </ul>
                 <div class="menu-featured inline">
                     <a href=""><img src="img/icon-linkedin.png" alt="Linkedin"></a>
@@ -35,7 +35,7 @@
     <!--page-content-->
     <div class="page-content">
         <div class="container">
-            página de contato
+            <p>página de contato</p>
         </div>
     </div>
 
