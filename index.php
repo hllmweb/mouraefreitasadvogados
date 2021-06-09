@@ -13,7 +13,7 @@
     <!--header-->
     <div class="header">
         <div class="container">
-            <div class="logo inline"><a href=""><img src="img/logo.png" alt="Logo Moura & Freitas Advogados"></a></div>
+            <div class="logo inline"><a href="index.php"><img src="img/logo.png" alt="Logo Moura & Freitas Advogados"></a></div>
             <div class="menu inline">
                 <ul class="menu-list inline">
                     <li class="menu-item"><a href="index.php" class="menu-active">Home</a></li>
