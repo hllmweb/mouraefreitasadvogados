@@ -105,6 +105,9 @@ body, html{
     filter: alpha(opacity=70);
     zoom: 1;
 }
+.menu-featured img{
+    height: 30px;
+}
 .page-content{
     padding: 5rem 0;
 }
