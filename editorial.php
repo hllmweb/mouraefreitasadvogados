@@ -31,32 +31,12 @@
         </div>
     </div>
 
-    <!--slider-->
-    <div class="slider">
-        <div><img src="img/slide/1.png" width="100%"></div>
-        <div><img src="img/slide/1.png" width="100%"></div>
-    </div>
+
 
     <!--page-content-->
     <div class="page-content">
         <div class="container">
-            <div class="width-40 inline">
-                <div class="h-group">
-                    <span class="h-light-title">Olá, Sejam Bem Vindo a</span>
-                    <span class="h-bold-title">Moura & Freitas Advogados</span>
-                </div>
-
-            </div>
-            <div class="width-60 inline">
-                <div class="p-group">
-                    <span class="p-description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                        euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad
-                        minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex
-                        ea commodo consequat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-                        ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</span>
-                </div>
-
-            </div>
+            página de editorial
         </div>
     </div>
 
@@ -71,13 +51,6 @@
     </div>
 
     <script src="js/jquery.min.js"></script>
-    <script src="js/jquery.bxslider.js"></script>
-    <script>
-        $('.slider').bxSlider({
-            mode: 'horizontal',
-	        auto: true,
-            adaptiveHeight: true
-        });
-    </script>
+ 
 </body>
 </html>
